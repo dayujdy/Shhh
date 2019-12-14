@@ -1,0 +1,57 @@
+html,body {
+	padding: 0;
+	margin: 0;
+	height: 100%;
+	background-color:#bdd4e7;
+}
+
+#footer{
+	margin-right: auto;	
+	margin-left: auto;
+	height: 30px;
+	width: 100%;
+	background-color: #192a51;
+	bottom: 0;
+	position: absolute;
+}
+
+.hello{
+	font-family: 'Permanent Marker', cursive;
+	color: white;
+	font-size: 30px;
+}
+
+.navbar{
+	background-color: #192a51;
+}
+
+#brand{
+	font-family: 'Permanent Marker', cursive;
+	font-size: 50px;
+	color: white;
+	margin-top: -20px;
+	margin-bottom: -20px;
+}
+
+.nav-item a{
+	font-family: 'Permanent Marker', cursive;
+	color:white;
+}
+#search{
+	display: flex;
+	justify-content: flex-end;
+}
+
+.emotion{
+	font-family: 'Permanent Marker', cursive;
+}
+
+.comment-area{
+	background-color: aliceblue;
+}
+.delete{
+	float : right;
+	margin-top: 15px;
+	margin-right: 20px;
+}
+
